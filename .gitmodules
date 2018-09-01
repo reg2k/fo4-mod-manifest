@@ -1,0 +1,24 @@
+[submodule "mods/f4mcm"]
+	path = mods/f4mcm
+	url = https://github.com/reg2k/f4mcm
+[submodule "mods/xdi"]
+	path = mods/xdi
+	url = https://github.com/reg2k/xdi
+[submodule "tools/build-tools"]
+	path = tools/build-tools
+	url = https://github.com/reg2k/f4se-build-tools
+[submodule "mods/fo4-vertibird-jump"]
+	path = mods/fo4-vertibird-jump
+	url = https://github.com/reg2k/fo4-vertibird-jump
+[submodule "mods/fo4-autoload"]
+	path = mods/fo4-autoload
+	url = https://github.com/reg2k/fo4-autoload
+[submodule "mods/fo4-autoswitch"]
+	path = mods/fo4-autoswitch
+	url = https://github.com/reg2k/fo4-autoswitch
+[submodule "mods/fo4-rename-anything"]
+	path = mods/fo4-rename-anything
+	url = https://github.com/reg2k/fo4-rename-anything
+[submodule "mods/Crafting-Highlight-Fix"]
+	path = mods/Crafting-Highlight-Fix
+	url = https://github.com/reg2k/Crafting-Highlight-Fix
