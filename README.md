@@ -3,5 +3,7 @@
 
 This repository exists to automatically build all F4SE plugins in it against a specified F4SE revision.
 
+To recursively update all submodules: `git submodule update --recursive --remote`
+
 Latest build artifacts:  
 https://ci.appveyor.com/project/reg2k/fo4-mod-manifest/branch/master/artifacts
