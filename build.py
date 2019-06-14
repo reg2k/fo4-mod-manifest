@@ -5,7 +5,7 @@ from glob import glob
 BUILD_DIR        = 'build'
 PROJECT_DIR      = 'src'
 PLATFORM_TOOLSET = 'v140'
-F4SE_REVISION    = 'tags/v0.6.16'
+F4SE_REVISION    = 'tags/v0.6.17'
 BUILD_TOOLS_DIR  = 'tools/build-tools'
 
 num_build_success = 0
